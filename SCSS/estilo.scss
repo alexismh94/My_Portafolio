@@ -1,0 +1,24 @@
+$base-font-size: 16px;
+$background-color: rgba(180, 180, 180, 0.5);
+$base-font-weight: 300;
+$medium-font-weight: $base-font-weight + 200;
+$bold-font-weight: $base-font-weight + 400;
+
+p{
+    font-size: $base-font-size;
+    font-weight: $bold-font-weight;
+}
+
+
+footer{
+    background-color: $background-color;
+}
+
+td{
+    font-size: $base-font-size;
+}
+
+th {
+    font-size: $base-font-size;
+
+}

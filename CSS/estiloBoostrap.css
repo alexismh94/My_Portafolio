@@ -1,0 +1,10 @@
+body {
+    background-image: url("../Images/25511.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.opacityNav {
+    background-color: rgb(0, 0, 0, 0.4);
+
+}
